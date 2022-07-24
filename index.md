@@ -1,11 +1,11 @@
 ---
-title: xsixtyfour
+title: switchboard operator
 layout: home
 permalink: /
 ---
-# EHLO
+# Yoooo
 
-Welcome to my corner of the internet where I will be sharing my insights and knowledge on topics related to IT best practice, CyberSec, InfoSec, and beyond.
+Corner of the internet where I will practice harnessing thoughts coherently before they float away.
 
 
 # > Posts
