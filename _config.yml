@@ -3,7 +3,7 @@ email: hello@x64.coffee
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my corner of the internet where I will be sharing my insights and knowledge on topics related to IT, Security and beyond. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://x64.coffee" # the base hostname & protocol for your site, e.g. http://example.com
+url: "amentikenea.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
   - index.md
