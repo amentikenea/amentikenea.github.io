@@ -3,7 +3,10 @@ title: switchboard operator
 layout: home
 permalink: /
 ---
-# Yoooo
+
+
+
+# yo
 
 Corner of the internet where I will practice harnessing thoughts coherently before they float away.
 
