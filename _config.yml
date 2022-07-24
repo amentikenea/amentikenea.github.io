@@ -1,9 +1,10 @@
-title: xsixtyfour@home
-email: hello@x64.coffee
+title: switchboard\\operator
+email: amenti@uni.minerva.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my corner of the internet where I will be sharing my insights and knowledge on topics related to IT, Security and beyond. 
+  Corner of the internet where I will ractice the process harnessing my thoughts into something coherent before they float away.
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://x64.coffee" # the base hostname & protocol for your site, e.g. http://example.com
+url: "amentikenea.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
   - index.md
@@ -15,7 +16,7 @@ remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-feed
 
-style: hacker
+style: light
 
 # Exclude from processing.
 # The following items will not be processed, by default.
