@@ -3,8 +3,9 @@ email: amenti@uni.minerva.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Garden to practice pinning down ruminations before they float away. 
   Topics will range from reflections, to reviews, to content dumps of things I like.
+  I don't understand what the issue is... 
 baseurl: "/yeet" # the subpath of your site, e.g. /blog
-url: "amenti4k.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "amentikenea.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
   - index.md
