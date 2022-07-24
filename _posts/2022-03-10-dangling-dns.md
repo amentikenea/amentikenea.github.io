@@ -4,13 +4,7 @@ title:  "Dangling DNS"
 date:   2022-03-10 13:30:45 +0100
 categories:
 ---
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="s">cat ~/dangling-dns.yml</span></code></pre>
-<span class="na">> Author</span><span class="pi">:</span> <span class="s">x64</span><br>
-<span class="na">> Inserted on</span><span class="pi">:</span> <span class="s">2022-03-10 12:32:22 +0000</span><br>
-<span class="na">> Total Words</span><span class="pi">:</span> <span class="s">1022</span><br>
-<span class="na">> Estimated reading time</span><span class="pi">:</span> <span class="s">8 Minutes</span>
-</figure>
+#
 ==========================================
 #  What is Dangling DNS?
 In order for us to fully understand what dangling DNS is, we need to talk about the basics of DNS. In a very simplified way, DNS is a protocol that translates user-friendly domain names so they are easier to remember compared to a numerical IPv4 address. The IP Addresses that belong to each domain are stored within authoritative DNS servers that act like phone books for the internet. I'm not sure if that comparison is relevant to the younger audience anymore, I can't remember the last time I've seen a phone book, but you get the idea. When you open up a web browser, and type in a website, the browser will connect to a recursive DNS server and ask "what is the IP Address for x64.coffee? The recursive DNS server will send that query to the authoritative server for the answer. 
